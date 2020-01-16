@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Word files
+*.pages
+
+# Mac extensiona
+*.DS_Store
+
 # C extensions
 *.so
 
